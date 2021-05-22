@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/flag_icon.png</file>
+        <file>Resources/bomb.png</file>
+        <file>dark.qss</file>
+        <file>light.qss</file>
+        <file>minebutton.qss</file>
+    </qresource>
+</RCC>
